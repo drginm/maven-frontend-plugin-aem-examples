@@ -1,0 +1,10 @@
+reports/
+.idea/
+*.iml
+*.swp
+
+node/
+node_modules/
+npm-debug.log
+package-lock.json
+install.js

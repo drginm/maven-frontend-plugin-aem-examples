@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<workspaceFilter version="1.0">
+    <filter root="/conf/first-app" mode="merge"/>
+    <filter root="/content/first-app" mode="merge"/>
+    <filter root="/content/dam/first-app" mode="merge"/>
+</workspaceFilter>
